@@ -1,0 +1,1 @@
+from wm_faiss.faiss_knn import FaissKnn

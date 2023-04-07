@@ -3,13 +3,13 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='faiss-wm',
+    name='wm_faiss',
     version='1.0.0',
     description= "Classifiers/Estimators using FAISS for efficiency",
     long_description='See: https://github.com/RonanChance/faiss-wm',
     author='Ronan Donovan',
     author_email='rcdonovan@wm.edu',
-    url='https://github.com/RonanChance/faiss-wm',
+    url='https://github.com/RonanChance/wm-faiss',
     packages=find_packages(),
     license="MIT",
     classifiers=[
